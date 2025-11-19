@@ -1,0 +1,27 @@
+html{
+  margin: auto;
+  
+}
+
+body {
+  margin: auto;
+  width: 1280px;
+  text-align: center;
+  background-color: #222;
+}
+
+p{
+  color: aliceblue;
+  line-height: 12px;
+  font-size: 16px;
+}
+
+h2{
+  color: rgb(21, 213, 31);
+  line-height: 12px;
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
